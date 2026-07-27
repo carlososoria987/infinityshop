@@ -1,5 +1,39 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": "p1",
+      "name": "Crema hidratante facial",
+      "category": "Belleza",
+      "price": 800,
+      "currency": "CUP",
+      "desc": "Hidratación profunda para todo tipo de piel, 50ml. Ideal para uso diario, textura ligera que no deja sensación grasosa.",
+      "img": "",
+      "stock": 15,
+      "active": true
+    },
+    {
+      "id": "p3",
+      "name": "Perfume corporal 100ml",
+      "category": "Belleza",
+      "price": 15,
+      "currency": "USD_TARJETA",
+      "desc": "Fragancia de larga duración, notas frescas y dulces. Presentación en frasco de vidrio.",
+      "img": "",
+      "stock": 10,
+      "active": true
+    },
+    {
+      "id": "p4",
+      "name": "Camiseta básica unisex",
+      "category": "Ropa",
+      "price": 1000,
+      "currency": "CUP",
+      "desc": "Algodón 100%, varias tallas disponibles. Corte cómodo para uso diario.",
+      "img": "",
+      "stock": 20,
+      "active": true
+    }
+  ],
   "settings": {
     "storeName": "Infinity Shop",
     "whatsapp": "",
