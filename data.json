@@ -1,5 +1,17 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": "p_1785192021742",
+      "name": "ECOLFOW",
+      "category": "Generador",
+      "price": 500,
+      "currency": "USD",
+      "stock": 5,
+      "desc": "",
+      "img": "",
+      "active": true
+    }
+  ],
   "settings": {
     "storeName": "Infinity Shop",
     "whatsapp": "",
