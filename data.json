@@ -1,17 +1,5 @@
 {
-  "products": [
-    {
-      "id": "p3",
-      "name": "Perfume corporal 100ml",
-      "category": "Belleza",
-      "price": 15,
-      "currency": "USD_TARJETA",
-      "desc": "Fragancia de larga duración, notas frescas y dulces. Presentación en frasco de vidrio.",
-      "img": "",
-      "stock": 10,
-      "active": true
-    }
-  ],
+  "products": [],
   "settings": {
     "storeName": "Infinity Shop",
     "whatsapp": "",
