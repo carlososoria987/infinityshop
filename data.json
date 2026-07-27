@@ -1,17 +1,6 @@
 {
   "products": [
     {
-      "id": "p2",
-      "name": "Set de brochas de maquillaje",
-      "category": "Belleza",
-      "price": 12,
-      "currency": "USD",
-      "desc": "6 piezas, cerdas suaves, ideal para uso diario. Incluye estuche de viaje.",
-      "img": "",
-      "stock": 8,
-      "active": true
-    },
-    {
       "id": "p3",
       "name": "Perfume corporal 100ml",
       "category": "Belleza",
