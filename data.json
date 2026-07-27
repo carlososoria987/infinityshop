@@ -1,5 +1,17 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": "p_1785190509495",
+      "name": "ecoflow",
+      "category": "generador electrico",
+      "price": 599,
+      "currency": "USD",
+      "stock": 4,
+      "desc": "lgkgkgkg",
+      "img": "https://cdn.phototourl.com/free/2026-07-27-57cab5b3-2c45-4ecf-aef0-a864f5748ce6.jpg",
+      "active": true
+    }
+  ],
   "settings": {
     "storeName": "Infinity Shop",
     "whatsapp": "",
