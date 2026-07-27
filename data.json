@@ -1,17 +1,5 @@
 {
-  "products": [
-    {
-      "id": "p4",
-      "name": "Camiseta básica unisex",
-      "category": "Ropa",
-      "price": 1000,
-      "currency": "CUP",
-      "desc": "Algodón 100%, varias tallas disponibles. Corte cómodo para uso diario.",
-      "img": "",
-      "stock": 20,
-      "active": true
-    }
-  ],
+  "products": [],
   "settings": {
     "storeName": "Infinity Shop",
     "whatsapp": "",
