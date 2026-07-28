@@ -23,6 +23,12 @@
         "name": "Monte carlos",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1785247046219",
+        "name": "Monte carlos",
+        "price": 400,
+        "currency": "CUP"
       }
     ]
   }
