@@ -17,6 +17,13 @@
     "whatsapp": "",
     "whatsappSupport": "",
     "pin": "050317",
-    "repartos": []
+    "repartos": [
+      {
+        "id": "r_1785247044291",
+        "name": "Monte carlos",
+        "price": 400,
+        "currency": "CUP"
+      }
+    ]
   }
 }
