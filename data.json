@@ -1,5 +1,17 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": "p_1785418966060",
+      "name": "Ecoflow Delta 3 Classic",
+      "category": "GENERADORES ELECTRICOS",
+      "price": 750,
+      "currency": "USD",
+      "stock": 3,
+      "desc": "ECOFLOW DELTA 3 CLASSIC ‼️  \n\n⚡ Potencia real: 1800W continuos / 3600W pico  \n🔌 X-Boost: alimenta equipos de hasta 2600W  \n⏱️ 0-80% en 45 min (carga X-Stream)  \n☀️ Carga solar completa en 2.5 h (panel 500W)  \n🔋 Batería LiFePO4: +10 años de vida útil  \n🖥️ UPS <10ms: protege tu PC al instante  \n📱 Control total desde tu celular (app EcoFlow)\n\n¿Qué puedes conectar?  \nNevera, TV, consola, licuadora, luces led, herramientas, ventilador, parrilla, lavadora… ¡lo que necesites!\n\n✅ Ideal para:  \n* Apagones en casa\n* Trabajo en campo\n* Camping o RV\n🔋\"Carga rápida, potencia real, tranquilidad total.”",
+      "img": "https://cdn.phototourl.com/free/2026-07-30-e5eb6457-6128-447e-ae62-22f289e57cd1.jpg",
+      "active": true
+    }
+  ],
   "settings": {
     "storeName": "Infinity Shop",
     "whatsapp": "56518863",
