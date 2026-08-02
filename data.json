@@ -43,6 +43,42 @@
       "desc": "⚡ ¡Potencia sin límites con la EcoFlow DELTA 3 Max Plus! ⚡\n\nNo dejes que los apagones te detengan. Con este combo de 4096 Wh de capacidad total, obtienes energía confiable y duradera para todo tu hogar u oficina.\n\n🔋 Potencia que impresiona:\n* Capacidad real: 4096 Wh (Unidad base + Batería extra incluida).\n* Salida nominal: 3000 W (Alimenta casi cualquier electrodoméstico).\n* Pico de arranque: Hasta 6000 W (Ideal para motores, aires acondicionados y neveras).\n* Energía Solar: Entrada solar de alta eficiencia para carga rápida en cualquier lugar.\n* Diseño Modular: Compatible con baterías extras para escalar tu autonomía según lo necesites.\n\n🚀 ¿Por qué elegirla? Es silenciosa, eficiente y diseñada para durar años. ¡La solución definitiva de respaldo energético!",
       "img": "https://cdn.phototourl.com/free/2026-07-30-70b01800-cd0e-4464-a51a-c16279b17459.jpg",
       "active": true
+    },
+    {
+      "id": "p_1785669978093",
+      "name": "Ecoflow Delta Pro Ultra",
+      "category": "GENERADORES ELECTRICOS",
+      "prices": [
+        {
+          "method": "USD",
+          "amount": 7050
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": {
+        "type": "free"
+      },
+      "desc": "⚡Tu Independencia Energética Total 🏡\n\nOlvídate de los apagones 🔌❌ y toma el control de tu energía. La DELTA Pro Ultra es la solución definitiva de respaldo doméstico, diseñada para alimentar desde electrodomésticos esenciales hasta toda tu casa 🏠⚡.\n\n¿Por qué elegirla? 🤔👇\n\n* 🚀 Potencia bruta: 7200W de salida nominal y hasta 14400W de pico de arranque. ¡Nada se quedará sin energía! 💥\n\n* 🔋 Capacidad real: 12 kWh reales (LiFePO4 de larga duración) expandibles hasta unos impresionantes 90 kWh añadiendo baterías extra. 📈\n\n* ☀️ Carga solar masiva: Entrada solar de hasta 5600W. Conviértete en tu propia planta de energía autosustentable 🌱⚡.\n\n* 🔌 Versatilidad: Salida de CA de 120V/240V, compatible con equipos de alto consumo. ✅\n\n¡No dependas de la red eléctrica! 🚫🔌 Asegura la tranquilidad de tu hogar con tecnología de vanguardia 🏆.",
+      "img": "https://cdn.phototourl.com/free/2026-08-02-7d3b5bb8-dc06-46cd-ae6a-3e4bef409a54.jpg",
+      "active": true
+    },
+    {
+      "id": "p_1785669986775",
+      "name": "Ecoflow Delta Pro Ultra",
+      "category": "GENERADORES ELECTRICOS",
+      "prices": [
+        {
+          "method": "USD",
+          "amount": 7050
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": {
+        "type": "free"
+      },
+      "desc": "⚡Tu Independencia Energética Total 🏡\n\nOlvídate de los apagones 🔌❌ y toma el control de tu energía. La DELTA Pro Ultra es la solución definitiva de respaldo doméstico, diseñada para alimentar desde electrodomésticos esenciales hasta toda tu casa 🏠⚡.\n\n¿Por qué elegirla? 🤔👇\n\n* 🚀 Potencia bruta: 7200W de salida nominal y hasta 14400W de pico de arranque. ¡Nada se quedará sin energía! 💥\n\n* 🔋 Capacidad real: 12 kWh reales (LiFePO4 de larga duración) expandibles hasta unos impresionantes 90 kWh añadiendo baterías extra. 📈\n\n* ☀️ Carga solar masiva: Entrada solar de hasta 5600W. Conviértete en tu propia planta de energía autosustentable 🌱⚡.\n\n* 🔌 Versatilidad: Salida de CA de 120V/240V, compatible con equipos de alto consumo. ✅\n\n¡No dependas de la red eléctrica! 🚫🔌 Asegura la tranquilidad de tu hogar con tecnología de vanguardia 🏆.",
+      "img": "https://cdn.phototourl.com/free/2026-08-02-7d3b5bb8-dc06-46cd-ae6a-3e4bef409a54.jpg",
+      "active": true
     }
   ],
   "settings": {
