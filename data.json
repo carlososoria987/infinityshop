@@ -79,6 +79,22 @@
       "desc": "1024Wh reales · Pico 2700W · Tu respaldo portátil\n\n🔋 Capacidad: 1024Wh (ampliable a 2048Wh con batería extra)  \n⚡ Potencia continua: 1800W · Pico: 2700W (enciende nevera, microondas, TV, laptop, taladro, bomba de agua)  \n\n🔌¿Qué puedes conectar? 🔌\n✅ Nevera (12h+), TV+consola, ventilador, router, cafetera, licuadora, minitaladro, equipo CPAP\n\n☀️ Carga solar: hasta 500W\n🔌 Tomas AC 120V + USB-C 100W, USB-A, DC, coche  \n🛡️ Batería LFP: >3000 ciclos al 80% de capacidad  \n📱 Control WiFi/Bluetooth desde tu móvil  \n⚡ Carga rápida: 0-80% en solo 50 min (con CA a 1200W)\n\nIdeal para:  \n🔸 Apagones en casa, camping, teletrabajo, emergencias  \n🔸 Ultra silenciosa, ligera (12 kg), plug & play \n\n\"1024Wh reales. 2700W de pico. 3000 ciclos de vida. Tu energía cuando más la necesitas.",
       "img": "https://cdn.phototourl.com/free/2026-08-02-822706d5-c3ee-4042-b0dc-5674f39bd2e8.jpg",
       "active": true
+    },
+    {
+      "id": "p_1785670715267",
+      "name": "Ecoflow Smart Home Panel 2",
+      "category": "GENERADORES ELECTRICOS",
+      "prices": [
+        {
+          "method": "USD",
+          "amount": 2050
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": null,
+      "desc": "¡Toma el control absoluto de la energía en tu hogar con el EcoFlow Smart Home Panel 2! ⚡🏠\n\nNo permitas que un corte de luz detenga tu vida. Nuestro panel inteligente es el cerebro que gestiona y distribuye tu energía de forma eficiente, garantizando que tu casa siga funcionando sin interrupciones.\n\n✅ Respaldo automático: Tranquilidad total ante cualquier emergencia.\n✅ Gestión inteligente: Monitorea y optimiza tu consumo directamente desde la App EcoFlow.\n✅ Versatilidad total: Integra fácilmente tus baterías (Delta Pro Ultra/3), paneles solares y generadores.\n✅ Eficiencia energética: Reduce costos y maximiza el uso de tus fuentes de energía.\n\n🚀 ¡Haz de tu hogar un espacio autosustentable y siempre conectado",
+      "img": "https://cdn.phototourl.com/free/2026-08-02-67b18533-3cfe-4431-a1ef-09dd01c73b2e.png",
+      "active": true
     }
   ],
   "settings": {
