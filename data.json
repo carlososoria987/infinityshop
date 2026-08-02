@@ -61,6 +61,24 @@
       "desc": "⚡Tu Independencia Energética Total 🏡\n\nOlvídate de los apagones 🔌❌ y toma el control de tu energía. La DELTA Pro Ultra es la solución definitiva de respaldo doméstico, diseñada para alimentar desde electrodomésticos esenciales hasta toda tu casa 🏠⚡.\n\n¿Por qué elegirla? 🤔👇\n\n* 🚀 Potencia bruta: 7200W de salida nominal y hasta 14400W de pico de arranque. ¡Nada se quedará sin energía! 💥\n\n* 🔋 Capacidad real: 12 kWh reales (LiFePO4 de larga duración) expandibles hasta unos impresionantes 90 kWh añadiendo baterías extra. 📈\n\n* ☀️ Carga solar masiva: Entrada solar de hasta 5600W. Conviértete en tu propia planta de energía autosustentable 🌱⚡.\n\n* 🔌 Versatilidad: Salida de CA de 120V/240V, compatible con equipos de alto consumo. ✅\n\n¡No dependas de la red eléctrica! 🚫🔌 Asegura la tranquilidad de tu hogar con tecnología de vanguardia 🏆.",
       "img": "https://cdn.phototourl.com/free/2026-08-02-7d3b5bb8-dc06-46cd-ae6a-3e4bef409a54.jpg",
       "active": true
+    },
+    {
+      "id": "p_1785670476293",
+      "name": "Ecoflow Delta 2",
+      "category": "GENERADORES ELECTRICOS",
+      "prices": [
+        {
+          "method": "USD",
+          "amount": 810
+        }
+      ],
+      "stock": 2,
+      "deliveryOverride": {
+        "type": "free"
+      },
+      "desc": "1024Wh reales · Pico 2700W · Tu respaldo portátil\n\n🔋 Capacidad: 1024Wh (ampliable a 2048Wh con batería extra)  \n⚡ Potencia continua: 1800W · Pico: 2700W (enciende nevera, microondas, TV, laptop, taladro, bomba de agua)  \n\n🔌¿Qué puedes conectar? 🔌\n✅ Nevera (12h+), TV+consola, ventilador, router, cafetera, licuadora, minitaladro, equipo CPAP\n\n☀️ Carga solar: hasta 500W\n🔌 Tomas AC 120V + USB-C 100W, USB-A, DC, coche  \n🛡️ Batería LFP: >3000 ciclos al 80% de capacidad  \n📱 Control WiFi/Bluetooth desde tu móvil  \n⚡ Carga rápida: 0-80% en solo 50 min (con CA a 1200W)\n\nIdeal para:  \n🔸 Apagones en casa, camping, teletrabajo, emergencias  \n🔸 Ultra silenciosa, ligera (12 kg), plug & play \n\n\"1024Wh reales. 2700W de pico. 3000 ciclos de vida. Tu energía cuando más la necesitas.",
+      "img": "https://cdn.phototourl.com/free/2026-08-02-822706d5-c3ee-4042-b0dc-5674f39bd2e8.jpg",
+      "active": true
     }
   ],
   "settings": {
