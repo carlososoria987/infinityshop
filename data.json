@@ -132,6 +132,12 @@
         "name": "Maternidad",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786103717403",
+        "name": "Oncologico",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
