@@ -204,6 +204,12 @@
         "name": "San Gabriel",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786103937859",
+        "name": "San Isidro",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
