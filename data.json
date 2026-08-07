@@ -126,6 +126,18 @@
         "name": "Estrella Roja",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786103478457",
+        "name": "Estrella Roja",
+        "price": 350,
+        "currency": "CUP"
+      },
+      {
+        "id": "r_1786103479216",
+        "name": "Estrella Roja",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
