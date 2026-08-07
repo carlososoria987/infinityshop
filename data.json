@@ -120,6 +120,12 @@
         "name": "Casino",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786103469477",
+        "name": "Estrella Roja",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
