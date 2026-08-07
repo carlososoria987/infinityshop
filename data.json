@@ -672,6 +672,12 @@
         "name": "Hotel Camaguey",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106052832",
+        "name": "Nadales",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
