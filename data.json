@@ -552,6 +552,12 @@
         "name": "Montejo",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105499586",
+        "name": "Modelo",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
