@@ -324,6 +324,12 @@
         "name": "Simoni",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104698033",
+        "name": "La Norma",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
