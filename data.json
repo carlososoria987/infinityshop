@@ -252,6 +252,12 @@
         "name": "Avenida 26 de Julio",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104165099",
+        "name": "Rosario",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
