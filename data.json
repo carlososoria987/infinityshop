@@ -606,6 +606,12 @@
         "name": "Porvenir",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105750042",
+        "name": "Las Delicias",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
