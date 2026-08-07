@@ -420,6 +420,12 @@
         "name": "Sanchez Soto",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105062553",
+        "name": "Previsora",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
