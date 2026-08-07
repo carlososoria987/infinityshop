@@ -702,6 +702,12 @@
         "name": "Circunvalación Norte",
         "price": 500,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106189398",
+        "name": "El Imán",
+        "price": 500,
+        "currency": "CUP"
       }
     ],
     "vendors": [
