@@ -104,12 +104,6 @@
     "pin": "carlos1234",
     "repartos": [
       {
-        "id": "r_1785247044291",
-        "name": "Monte carlos",
-        "price": 400,
-        "currency": "CUP"
-      },
-      {
         "id": "r_1786069205258",
         "name": "Centro del Pueblo",
         "price": 350,
