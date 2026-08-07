@@ -696,6 +696,12 @@
         "name": "Vocacional",
         "price": 500,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106168491",
+        "name": "Circunvalación Norte",
+        "price": 500,
+        "currency": "CUP"
       }
     ],
     "vendors": [
