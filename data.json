@@ -109,6 +109,7 @@
         "price": 400,
         "currency": "CUP"
       }
-    ]
+    ],
+    "vendors": []
   }
 }
