@@ -162,6 +162,12 @@
         "name": "Avellaneda",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786103811995",
+        "name": "San Ramón",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
