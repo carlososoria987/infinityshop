@@ -378,6 +378,12 @@
         "name": "La Mosca",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104891808",
+        "name": "Reparto Camilo Cienfuegos",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
