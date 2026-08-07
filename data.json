@@ -648,6 +648,12 @@
         "name": "La Nueva Esperanza",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105972650",
+        "name": "Julio Antonio Mella",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
