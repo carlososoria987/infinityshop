@@ -624,6 +624,12 @@
         "name": "La Carbonera",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105797824",
+        "name": "La Gloria",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
