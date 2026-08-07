@@ -264,6 +264,12 @@
         "name": "Santa Rosa",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104205299",
+        "name": "Reparto Santa Rosa",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
