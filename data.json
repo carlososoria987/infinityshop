@@ -240,6 +240,12 @@
         "name": "Ferrocarril",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104065458",
+        "name": "Plaza Habana",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
