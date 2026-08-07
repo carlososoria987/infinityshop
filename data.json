@@ -654,6 +654,12 @@
         "name": "Julio Antonio Mella",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105994203",
+        "name": "Avenida Mónaco Sur",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
