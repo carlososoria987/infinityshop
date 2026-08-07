@@ -738,6 +738,12 @@
         "name": "Universidad de Camaguey",
         "price": 500,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106304216",
+        "name": "Camino del Jaguey",
+        "price": 550,
+        "currency": "CUP"
       }
     ],
     "vendors": [
