@@ -618,6 +618,12 @@
         "name": "Camino de Camujiro",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105783059",
+        "name": "La Carbonera",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
