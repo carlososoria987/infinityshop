@@ -780,6 +780,12 @@
         "name": "La Yaba",
         "price": 600,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106469641",
+        "name": "Los Ranchos",
+        "price": 600,
+        "currency": "CUP"
       }
     ],
     "vendors": [
