@@ -354,6 +354,12 @@
         "name": "Torre Blanca",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104821086",
+        "name": "El Jardín",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
