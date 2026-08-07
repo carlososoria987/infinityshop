@@ -426,6 +426,12 @@
         "name": "Previsora",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105100299",
+        "name": "Hospital Pediátrico",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
