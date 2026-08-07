@@ -516,6 +516,12 @@
         "name": "Villa Mariana",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105359348",
+        "name": "Jurukey",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
