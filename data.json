@@ -108,6 +108,12 @@
         "name": "Monte carlos",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786069192978",
+        "name": "Centro del Pueblo",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
