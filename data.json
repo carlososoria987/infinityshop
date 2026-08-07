@@ -684,6 +684,12 @@
         "name": "Los Coquitos(zona de edificios)",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106132948",
+        "name": "Vista Bella",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
