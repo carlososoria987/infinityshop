@@ -110,6 +110,12 @@
         "currency": "CUP"
       }
     ],
-    "vendors": []
+    "vendors": [
+      {
+        "id": "v_1786068984150",
+        "name": "las cariñosas",
+        "whatsapp": "55446344"
+      }
+    ]
   }
 }
