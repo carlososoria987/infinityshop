@@ -582,6 +582,12 @@
         "name": "Puerto Principe",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105642828",
+        "name": "Nuevo Salomé",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
