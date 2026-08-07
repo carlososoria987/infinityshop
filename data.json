@@ -95,24 +95,6 @@
       "desc": "¡Toma el control absoluto de la energía en tu hogar con el EcoFlow Smart Home Panel 2! ⚡🏠\n\nNo permitas que un corte de luz detenga tu vida. Nuestro panel inteligente es el cerebro que gestiona y distribuye tu energía de forma eficiente, garantizando que tu casa siga funcionando sin interrupciones.\n\n✅ Respaldo automático: Tranquilidad total ante cualquier emergencia.\n✅ Gestión inteligente: Monitorea y optimiza tu consumo directamente desde la App EcoFlow.\n✅ Versatilidad total: Integra fácilmente tus baterías (Delta Pro Ultra/3), paneles solares y generadores.\n✅ Eficiencia energética: Reduce costos y maximiza el uso de tus fuentes de energía.\n\n🚀 ¡Haz de tu hogar un espacio autosustentable y siempre conectado",
       "img": "https://cdn.phototourl.com/free/2026-08-02-67b18533-3cfe-4431-a1ef-09dd01c73b2e.png",
       "active": true
-    },
-    {
-      "id": "p_1786069086826",
-      "name": "labial",
-      "category": "Belleza",
-      "prices": [
-        {
-          "method": "CUP",
-          "amount": 1000
-        }
-      ],
-      "stock": 2,
-      "deliveryOverride": null,
-      "vendorId": "v_1786068984150",
-      "desc": "jdfjdfh",
-      "images": [],
-      "img": "",
-      "active": true
     }
   ],
   "settings": {
