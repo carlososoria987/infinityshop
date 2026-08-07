@@ -486,6 +486,12 @@
         "name": "Marquesado",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105297060",
+        "name": "El Diamante",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
