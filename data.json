@@ -768,6 +768,12 @@
         "name": "Lenin(Reparto Militar)",
         "price": 600,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106449922",
+        "name": "Albaisa",
+        "price": 650,
+        "currency": "CUP"
       }
     ],
     "vendors": [
