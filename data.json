@@ -636,6 +636,12 @@
         "name": "Camino del Ganado",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105861360",
+        "name": "La Vieja Esperanza",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
