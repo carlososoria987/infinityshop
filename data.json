@@ -474,6 +474,12 @@
         "name": "Beneficencia",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105273048",
+        "name": "Jayamá",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
