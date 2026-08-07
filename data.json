@@ -222,6 +222,12 @@
         "name": "Parque Agramonte",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104017673",
+        "name": "República",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
