@@ -216,6 +216,12 @@
         "name": "Cristo",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786103999021",
+        "name": "Parque Agramonte",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
