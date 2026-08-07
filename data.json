@@ -258,6 +258,12 @@
         "name": "Rosario",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104181773",
+        "name": "Santa Rosa",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
