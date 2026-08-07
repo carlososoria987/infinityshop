@@ -150,6 +150,12 @@
         "name": "Avenida de la Caridad",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786103772903",
+        "name": "General Gomez",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
