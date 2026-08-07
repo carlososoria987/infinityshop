@@ -744,6 +744,12 @@
         "name": "Camino del Jaguey",
         "price": 550,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106313870",
+        "name": "San Antonio",
+        "price": 550,
+        "currency": "CUP"
       }
     ],
     "vendors": [
