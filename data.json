@@ -726,6 +726,12 @@
         "name": "Escuela Vocacional de Arte",
         "price": 500,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106264414",
+        "name": "Fajardo",
+        "price": 500,
+        "currency": "CUP"
       }
     ],
     "vendors": [
