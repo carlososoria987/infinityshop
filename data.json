@@ -540,6 +540,12 @@
         "name": "Angola",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105433842",
+        "name": "Alturas del Cerro",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
