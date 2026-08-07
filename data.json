@@ -576,6 +576,12 @@
         "name": "Alturas de la Vigía",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105626228",
+        "name": "Puerto Principe",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
