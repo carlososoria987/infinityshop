@@ -438,6 +438,12 @@
         "name": "Reparto La Caridad",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105159416",
+        "name": "Reparto Baronía",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
