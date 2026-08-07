@@ -402,6 +402,12 @@
         "name": "La Zambrana",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104981730",
+        "name": "Palomino",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
