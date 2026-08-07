@@ -594,6 +594,12 @@
         "name": "Viejo Salomé",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105711222",
+        "name": "Nuevo Simoni",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
