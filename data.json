@@ -234,6 +234,12 @@
         "name": "Plaza del Gallo",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104054609",
+        "name": "Ferrocarril",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
