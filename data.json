@@ -114,6 +114,12 @@
         "name": "Centro del Pueblo",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786069274128",
+        "name": "Casino",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
