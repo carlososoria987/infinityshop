@@ -300,6 +300,12 @@
         "name": "Florat",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104610159",
+        "name": "Edén",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
