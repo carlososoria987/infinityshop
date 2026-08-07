@@ -588,6 +588,12 @@
         "name": "Nuevo Salomé",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105660514",
+        "name": "Viejo Salomé",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
