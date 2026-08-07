@@ -612,6 +612,12 @@
         "name": "Las Delicias",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105769274",
+        "name": "Camino de Camujiro",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
