@@ -138,6 +138,12 @@
         "name": "Oncologico",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786103738434",
+        "name": "Hospital Provincial",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
