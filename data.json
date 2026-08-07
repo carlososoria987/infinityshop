@@ -450,6 +450,12 @@
         "name": "La Rubia",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105177916",
+        "name": "Palma",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
