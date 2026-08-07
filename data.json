@@ -312,6 +312,12 @@
         "name": "Bove",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104669861",
+        "name": "Agramonte",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
