@@ -318,6 +318,12 @@
         "name": "Agramonte",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104686849",
+        "name": "Simoni",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
