@@ -756,6 +756,12 @@
         "name": "Lenin",
         "price": 550,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106380228",
+        "name": "Lenin (Victoria de Girón)",
+        "price": 600,
+        "currency": "CUP"
       }
     ],
     "vendors": [
