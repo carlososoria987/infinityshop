@@ -558,6 +558,12 @@
         "name": "Modelo",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105523279",
+        "name": "La Mascota",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
