@@ -294,6 +294,12 @@
         "name": "Guernica",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104592927",
+        "name": "Florat",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
