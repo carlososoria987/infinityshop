@@ -306,6 +306,12 @@
         "name": "Edén",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104649261",
+        "name": "Bove",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
