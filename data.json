@@ -384,6 +384,12 @@
         "name": "Reparto Camilo Cienfuegos",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104902861",
+        "name": "Monte Carlos",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
