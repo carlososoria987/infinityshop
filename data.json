@@ -336,6 +336,12 @@
         "name": "Reparto José Martí",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104735129",
+        "name": "Vista Hermosa",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
