@@ -456,6 +456,12 @@
         "name": "Palma",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105192796",
+        "name": "Madan Curi",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
