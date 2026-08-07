@@ -564,6 +564,12 @@
         "name": "La Mascota",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105560383",
+        "name": "Juanito",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
