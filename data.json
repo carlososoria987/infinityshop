@@ -396,6 +396,12 @@
         "name": "Garrido",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104954837",
+        "name": "La Zambrana",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
