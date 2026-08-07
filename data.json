@@ -774,6 +774,12 @@
         "name": "Albaisa",
         "price": 650,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106458408",
+        "name": "La Yaba",
+        "price": 600,
+        "currency": "CUP"
       }
     ],
     "vendors": [
