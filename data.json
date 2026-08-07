@@ -408,6 +408,12 @@
         "name": "Palomino",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105002138",
+        "name": "La Belén",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
