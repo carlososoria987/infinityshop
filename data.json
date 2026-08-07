@@ -546,6 +546,12 @@
         "name": "Alturas del Cerro",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105459752",
+        "name": "Montejo",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
