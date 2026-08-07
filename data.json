@@ -192,6 +192,12 @@
         "name": "San Rafael",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786103915439",
+        "name": "San Lorenzo",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
