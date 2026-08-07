@@ -732,6 +732,12 @@
         "name": "Fajardo",
         "price": 500,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106278852",
+        "name": "Universidad de Camaguey",
+        "price": 500,
+        "currency": "CUP"
       }
     ],
     "vendors": [
