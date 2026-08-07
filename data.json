@@ -690,6 +690,12 @@
         "name": "Vista Bella",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106150230",
+        "name": "Vocacional",
+        "price": 500,
+        "currency": "CUP"
       }
     ],
     "vendors": [
