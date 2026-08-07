@@ -330,6 +330,12 @@
         "name": "La Norma",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104721918",
+        "name": "Reparto José Martí",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
