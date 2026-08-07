@@ -528,6 +528,12 @@
         "name": "Nitrogeno",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105388751",
+        "name": "La Arenera",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
