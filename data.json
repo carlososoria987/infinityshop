@@ -630,6 +630,12 @@
         "name": "La Gloria",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105818340",
+        "name": "Camino del Ganado",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
