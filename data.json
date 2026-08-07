@@ -666,6 +666,12 @@
         "name": "Rafelita",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106038549",
+        "name": "Hotel Camaguey",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
