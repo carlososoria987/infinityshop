@@ -276,6 +276,12 @@
         "name": "Estadio de Pelota Cándido Gonzáles",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104478315",
+        "name": "Reparto Piña",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
