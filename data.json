@@ -522,6 +522,12 @@
         "name": "Jurukey",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105375117",
+        "name": "Nitrogeno",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
