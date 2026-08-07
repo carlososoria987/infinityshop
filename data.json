@@ -270,6 +270,12 @@
         "name": "Reparto Santa Rosa",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104248876",
+        "name": "Estadio de Pelota Cándido Gonzáles",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
