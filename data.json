@@ -390,6 +390,12 @@
         "name": "Monte Carlos",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104912748",
+        "name": "Versalles",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
