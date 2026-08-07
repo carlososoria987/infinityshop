@@ -510,6 +510,12 @@
         "name": "Buenos Aires",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105349844",
+        "name": "Villa Mariana",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
