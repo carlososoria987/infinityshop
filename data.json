@@ -492,6 +492,12 @@
         "name": "El Diamante",
         "price": 400,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105306414",
+        "name": "El Retiro",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
