@@ -282,6 +282,12 @@
         "name": "Reparto Piña",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104541856",
+        "name": "Plaza  Méndez",
+        "price": 400,
+        "currency": "CUP"
       }
     ],
     "vendors": [
