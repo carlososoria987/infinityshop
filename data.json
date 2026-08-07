@@ -714,6 +714,12 @@
         "name": "La EIDE",
         "price": 500,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786106222587",
+        "name": "Alturas de Jayamá",
+        "price": 500,
+        "currency": "CUP"
       }
     ],
     "vendors": [
