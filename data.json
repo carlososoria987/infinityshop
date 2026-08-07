@@ -534,6 +534,12 @@
         "name": "La Arenera",
         "price": 450,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786105399167",
+        "name": "Angola",
+        "price": 450,
+        "currency": "CUP"
       }
     ],
     "vendors": [
