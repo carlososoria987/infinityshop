@@ -126,6 +126,12 @@
         "name": "Estrella Roja",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786103684254",
+        "name": "Maternidad",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
