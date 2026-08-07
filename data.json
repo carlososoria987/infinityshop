@@ -156,6 +156,12 @@
         "name": "General Gomez",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786103790010",
+        "name": "Avellaneda",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
