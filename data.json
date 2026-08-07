@@ -228,6 +228,12 @@
         "name": "República",
         "price": 350,
         "currency": "CUP"
+      },
+      {
+        "id": "r_1786104034377",
+        "name": "Plaza del Gallo",
+        "price": 350,
+        "currency": "CUP"
       }
     ],
     "vendors": [
