@@ -158,6 +158,27 @@
       ],
       "img": "https://cdn.phototourl.com/free/2026-08-08-c76998e4-2311-4ef7-be5e-dfab528345dd.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786233210896",
+      "name": "Abrigo Negro Los Angeles",
+      "category": "ABRIGOS PARA HOMBRE",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 9500,
+          "original": 10500
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "TALLA L",
+      "images": [
+        "https://cdn.phototourl.com/free/2026-08-08-0bfbfbd3-6c67-43ba-b44f-29a4c00a2d23.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/free/2026-08-08-0bfbfbd3-6c67-43ba-b44f-29a4c00a2d23.jpg",
+      "active": true
     }
   ],
   "settings": {
