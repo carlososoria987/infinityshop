@@ -200,6 +200,27 @@
       ],
       "img": "https://cdn.phototourl.com/free/2026-08-08-9ebcc76f-4361-4318-9e68-40158f1de591.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786233488965",
+      "name": "Abrigo Gris Paris",
+      "category": "ABRIGOS PARA HOMBRE",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 9500,
+          "original": 10500
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "TALLA L",
+      "images": [
+        "https://cdn.phototourl.com/free/2026-08-08-d010c1a9-8c11-4eaa-8902-a1e0ccf15083.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/free/2026-08-08-d010c1a9-8c11-4eaa-8902-a1e0ccf15083.jpg",
+      "active": true
     }
   ],
   "settings": {
