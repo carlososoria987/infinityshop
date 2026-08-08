@@ -179,6 +179,27 @@
       ],
       "img": "https://cdn.phototourl.com/free/2026-08-08-0bfbfbd3-6c67-43ba-b44f-29a4c00a2d23.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786233336648",
+      "name": "Abrigo Negro California",
+      "category": "ABRIGOS PARA HOMBRE",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 9500,
+          "original": 10500
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "TALLA L",
+      "images": [
+        "https://cdn.phototourl.com/free/2026-08-08-9ebcc76f-4361-4318-9e68-40158f1de591.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/free/2026-08-08-9ebcc76f-4361-4318-9e68-40158f1de591.jpg",
+      "active": true
     }
   ],
   "settings": {
