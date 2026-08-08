@@ -137,6 +137,27 @@
       ],
       "img": "https://cdn.phototourl.com/free/2026-08-08-0ffd8108-dc19-49f5-9ef2-a2dbdf8bb3f8.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786232995291",
+      "name": "Abrigo Negro Nope",
+      "category": "ABRIGOS PARA HOMBRE",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 9500,
+          "original": 10500
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "TALLA L",
+      "images": [
+        "https://cdn.phototourl.com/free/2026-08-08-c76998e4-2311-4ef7-be5e-dfab528345dd.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/free/2026-08-08-c76998e4-2311-4ef7-be5e-dfab528345dd.jpg",
+      "active": true
     }
   ],
   "settings": {
