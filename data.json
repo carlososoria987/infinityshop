@@ -116,6 +116,27 @@
       ],
       "img": "https://cdn.phototourl.com/free/2026-08-08-022b612e-9ac4-4a62-9983-068c32f82044.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786232720371",
+      "name": "Abrigo Gris Unisex",
+      "category": "ABRIGOS PARA HOMBRE",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 9500,
+          "original": 10500
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "TALLA L",
+      "images": [
+        "https://cdn.phototourl.com/free/2026-08-08-0ffd8108-dc19-49f5-9ef2-a2dbdf8bb3f8.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/free/2026-08-08-0ffd8108-dc19-49f5-9ef2-a2dbdf8bb3f8.jpg",
+      "active": true
     }
   ],
   "settings": {
