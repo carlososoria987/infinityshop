@@ -223,27 +223,6 @@
       "active": true
     },
     {
-      "id": "p_1786238994367",
-      "name": "Abrigo Gris Paris",
-      "category": "ABRIGOS PARA HOMBRE1",
-      "prices": [
-        {
-          "method": "CUP",
-          "amount": 9500,
-          "original": 10500
-        }
-      ],
-      "stock": 1,
-      "deliveryOverride": null,
-      "vendorId": null,
-      "desc": "TALLA L",
-      "images": [
-        "https://cdn.phototourl.com/free/2026-08-09-334fa59c-ee20-48a4-b3c5-97e8b4367da6.jpg"
-      ],
-      "img": "https://cdn.phototourl.com/free/2026-08-09-334fa59c-ee20-48a4-b3c5-97e8b4367da6.jpg",
-      "active": true
-    },
-    {
       "id": "p_1786239171449",
       "name": "Abrigo Gris Los Angeles",
       "category": "ABRIGOS PARA HOMBRE",
