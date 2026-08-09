@@ -370,25 +370,6 @@
       "active": true
     },
     {
-      "id": "p_1786241355622",
-      "name": "Mono Corto Deportivo Color Negro Y Blanco",
-      "category": "ROPA DE GYM DE MUJER",
-      "prices": [
-        {
-          "method": "CUP",
-          "amount": 8500,
-          "original": 9000
-        }
-      ],
-      "stock": 1,
-      "deliveryOverride": null,
-      "vendorId": null,
-      "desc": "TALLA S",
-      "images": [],
-      "img": "",
-      "active": true
-    },
-    {
       "id": "p_1786241454620",
       "name": "Mono Corto Deportivo Color Blanco y Negro",
       "category": "ROPA DE GYM DE MUJER",
