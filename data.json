@@ -263,6 +263,27 @@
       ],
       "img": "https://cdn.phototourl.com/free/2026-08-09-41b7873c-c78d-4710-9d37-b570d5c5f61b.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786239618342",
+      "name": "Abrigo Color Negro Entero",
+      "category": "ABRIGOS PARA HOMBRE",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 9500,
+          "original": 10500
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "TALLA L",
+      "images": [
+        "https://cdn.phototourl.com/free/2026-08-09-70caaa98-7cb6-4074-a67a-03baa5119a28.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/free/2026-08-09-70caaa98-7cb6-4074-a67a-03baa5119a28.jpg",
+      "active": true
     }
   ],
   "settings": {
