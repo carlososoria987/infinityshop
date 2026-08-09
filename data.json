@@ -305,6 +305,27 @@
       ],
       "img": "https://cdn.phototourl.com/free/2026-08-09-487aa09f-cc30-431e-b9a2-a177c987db2c.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786240034721",
+      "name": "Abrigo Color Chicago Color Gris",
+      "category": "ABRIGOS PARA HOMBRE",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 9500,
+          "original": 10500
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "TALLA L",
+      "images": [
+        "https://cdn.phototourl.com/free/2026-08-09-5a4c1fc1-d409-45af-9eaa-e8d6a36093c3.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/free/2026-08-09-5a4c1fc1-d409-45af-9eaa-e8d6a36093c3.jpg",
+      "active": true
     }
   ],
   "settings": {
