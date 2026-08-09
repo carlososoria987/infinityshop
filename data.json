@@ -494,6 +494,27 @@
       ],
       "img": "https://cdn.phototourl.com/member/2026-08-09-b7a127c8-d0fe-43fe-b013-4e1c99b88ecd.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786243520919",
+      "name": "Mono Largo Deportivo Color Azul Marino",
+      "category": "ROPA DE GYM DE MUJER",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 11000,
+          "original": 12500
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "TALLA S",
+      "images": [
+        "https://cdn.phototourl.com/member/2026-08-09-06bb9596-90b1-46c3-9408-f813800fe9cb.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/member/2026-08-09-06bb9596-90b1-46c3-9408-f813800fe9cb.jpg",
+      "active": true
     }
   ],
   "settings": {
