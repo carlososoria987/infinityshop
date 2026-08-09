@@ -242,6 +242,27 @@
       ],
       "img": "https://cdn.phototourl.com/free/2026-08-09-334fa59c-ee20-48a4-b3c5-97e8b4367da6.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786239171449",
+      "name": "Abrigo Gris Los Angeles",
+      "category": "ABRIGOS PARA HOMBRE",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 9500,
+          "original": 10500
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "TALLA L",
+      "images": [
+        "https://cdn.phototourl.com/free/2026-08-09-0e128db1-e4f7-44bc-a848-9828935cbda5.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/free/2026-08-09-0e128db1-e4f7-44bc-a848-9828935cbda5.jpg",
+      "active": true
     }
   ],
   "settings": {
