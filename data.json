@@ -536,6 +536,26 @@
       ],
       "img": "https://cdn.phototourl.com/member/2026-08-09-3cf44f22-6470-4268-b576-ff25ae1218e1.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786244097661",
+      "name": "Nourishing Hair Serum",
+      "category": "PRODUCTOS PARA EL PELO",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 2900
+        }
+      ],
+      "stock": 2,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "Es un tratamiento capilar diseñado para hidratar profundamente y reparar el cabello seco o dañado mediante una fórmula enriquecida con aceite de coco y manteca de karité. \n\n✨️Beneficios :\nControl del encrespamiento: Ayuda a suavizar los cabellos rebeldes (vuelos) y reduce el frizz de forma duradera.\nBrillo y suavidad: Proporciona un acabado sedoso y un brillo natural saludable sin dejar sensación grasosa si se usa en la cantidad adecuada.\nProtección: Actúa como un escudo contra el calor de las herramientas de peinado y factores ambientales externos.\nNutrición profunda: La combinación de manteca de karité y aceite de coco retiene la humedad, fortaleciendo las hebras y reparando puntas abiertas.\n\n✨️Modo de Uso:\nPara obtener los mejores resultados, se recomienda aplicarlo sobre el cabello limpio, ya sea húmedo o seco:\nDosificación: Dispensa una pequeña cantidad (una o dos gotas suelen ser suficientes, ya que es un producto muy espeso) en la palma de la mano. \nPreparación: Frota las manos para calentar ligeramente el sérum antes de aplicarlo. \nAplicación: Distribuye uniformemente de medios a puntas. Evita aplicarlo directamente en la raíz para no engrasar el cuero cabelludo. \nFinalizado: Peina como de costumbre. Puede usarse diariamente o como retoque para añadir brillo y controlar el frizz a lo largo del día. \n\n✨️Contenido:118 ml",
+      "images": [
+        "https://cdn.phototourl.com/member/2026-08-09-b4dd5788-f809-4448-b87e-b57d27f72b41.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/member/2026-08-09-b4dd5788-f809-4448-b87e-b57d27f72b41.jpg",
+      "active": true
     }
   ],
   "settings": {
