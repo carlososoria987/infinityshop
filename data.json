@@ -242,6 +242,27 @@
       ],
       "img": "https://cdn.phototourl.com/free/2026-08-09-0e128db1-e4f7-44bc-a848-9828935cbda5.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786239390015",
+      "name": "Abrigo Gris Oscuro Paris",
+      "category": "ABRIGOS PARA HOMBRE",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 9500,
+          "original": 10500
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "TALLA L",
+      "images": [
+        "https://cdn.phototourl.com/free/2026-08-09-41b7873c-c78d-4710-9d37-b570d5c5f61b.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/free/2026-08-09-41b7873c-c78d-4710-9d37-b570d5c5f61b.jpg",
+      "active": true
     }
   ],
   "settings": {
