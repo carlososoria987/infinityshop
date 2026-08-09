@@ -473,6 +473,27 @@
       ],
       "img": "https://cdn.phototourl.com/member/2026-08-09-197c79a0-496d-497a-9f3c-454f0c96bae4.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786243349833",
+      "name": "Mono Largo Deportivo Levanta Glúteo Color Azul Pálido",
+      "category": "ROPA DE GYM DE MUJER",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 11000,
+          "original": 12500
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "TALLA S",
+      "images": [
+        "https://cdn.phototourl.com/member/2026-08-09-b7a127c8-d0fe-43fe-b013-4e1c99b88ecd.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/member/2026-08-09-b7a127c8-d0fe-43fe-b013-4e1c99b88ecd.jpg",
+      "active": true
     }
   ],
   "settings": {
