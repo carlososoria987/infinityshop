@@ -389,6 +389,27 @@
       ],
       "img": "https://cdn.phototourl.com/member/2026-08-09-6cf6d71f-071e-488f-be0f-4ef1746d900e.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786242539210",
+      "name": "Mono Corto Deportivo Color Blanco y Negro Cerrado",
+      "category": "ROPA DE GYM DE MUJER",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 8500,
+          "original": 9000
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "TALLA S",
+      "images": [
+        "https://cdn.phototourl.com/member/2026-08-09-43eb9c33-552c-494f-a307-bce7fc442249.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/member/2026-08-09-43eb9c33-552c-494f-a307-bce7fc442249.jpg",
+      "active": true
     }
   ],
   "settings": {
