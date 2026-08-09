@@ -431,6 +431,27 @@
       ],
       "img": "https://cdn.phototourl.com/member/2026-08-09-e3b02dd0-8e9a-4dd6-9e7d-1bba531e5f0b.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786242875509",
+      "name": "Mono Largo Deportivo Color Azul Neblina",
+      "category": "ROPA DE GYM DE MUJER",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 11000,
+          "original": 12500
+        }
+      ],
+      "stock": 1,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "TALLA S",
+      "images": [
+        "https://cdn.phototourl.com/member/2026-08-09-74931974-7421-489d-8a60-a51db23ec9c8.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/member/2026-08-09-74931974-7421-489d-8a60-a51db23ec9c8.jpg",
+      "active": true
     }
   ],
   "settings": {
