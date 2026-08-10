@@ -796,6 +796,26 @@
       ],
       "img": "https://cdn.phototourl.com/member/2026-08-10-6a9e1348-ca16-44f0-9f9b-1050e68c491f.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786361395258",
+      "name": "Aceite De La Marca Kaliya Beauty",
+      "category": "PRODUCTOS PARA MEJORAR LA PIEL",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 2800
+        }
+      ],
+      "stock": 3,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "✨️Beneficios :\nReafirmación y Tonificación: Ayuda a tensar la piel, reduciendo la flacidez para un aspecto más firme y levantado. \nMejora de la Elasticidad: Promueve la flexibilidad de la piel, lo cual puede ayudar a combatir la celulitis y suavizar la textura cutánea. \nHidratación Profunda: Nutre y suaviza la piel intensamente, dejándola revitalizada.\nEstimulación Local: Mediante el masaje, se busca mejorar la circulación sanguínea en la zona, lo que contribuye a una piel más saludable.\n\n✨️Modo de Uso:\nPreparación: Limpie y seque bien la zona antes de usar. Se sugiere aplicar después del baño con agua tibia durante 1-2 minutos para abrir los poros. \nAplicación: Coloque unas gotas del aceite en los glúteos. \nTécnica de Masaje: Realice masajes circulares y ascendentes (de abajo hacia arriba) con firmeza hasta que el aceite se absorba por completo.\nFrecuencia: Se recomienda usarlo dos veces al día (mañana y noche) de manera constante durante al menos 3 a 4 semanas para notar mejoras visibles.\n\n✨️Contenido:30 ml",
+      "images": [
+        "https://cdn.phototourl.com/member/2026-08-10-91794eb1-ea21-425e-9900-1084acfa54ed.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/member/2026-08-10-91794eb1-ea21-425e-9900-1084acfa54ed.jpg",
+      "active": true
     }
   ],
   "settings": {
