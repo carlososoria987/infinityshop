@@ -736,6 +736,26 @@
       ],
       "img": "https://cdn.phototourl.com/member/2026-08-10-305fa7ad-7ef8-423b-9e3b-052af337881a.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786360932253",
+      "name": "Crema Capilar De La Marca Heaven Dove",
+      "category": "PRODUCTOS PARA EL PELO",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 3200
+        }
+      ],
+      "stock": 3,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "Diseñada para alisar, hidratar y fortalecer el cabello. Se caracteriza por su diseño innovador 2 en 1 que incluye un peine aplicador integrado para facilitar una distribución uniforme del producto.\n\n✨️Beneficios :\nAlisado y Control: Transforma el cabello rizado o con frizz en mechones lisos y manejables.\nHidratación y Brillo: Contiene ingredientes como colágeno vegetal y vitamina E que proporcionan una hidratación profunda y un brillo natural.\nFortalecimiento: Ayuda a fortalecer la raíz y la fibra capilar, mejorando la elasticidad y protegiendo el color del cabello.\nReparación: Nutre el cabello desde el interior, suavizando la cutícula y ayudando a sellar puntas abiertas.\n\n✨️Modo de Uso:\nPreparación: El cabello debe estar limpio,aplicarlo sobre el cabello ligeramente húmedo .\nAplicación: Presione el envase para que la crema salga a través del peine. Peine el cabello directamente con el aplicador para asegurar que el producto cubra cada hebra, desde la raíz (evitando el cuero cabelludo) hasta las puntas.\nTiempo de espera: Deje actuar el producto. El tiempo varía según el tipo de cabello, generalmente entre 20 a 40 minutos.\nEnjuague: Aclare con agua hasta eliminar cualquier residuo del producto.\nFinalizado: Secar con secador usar plancha para potenciar el efecto liso opcional, asegurándose de que el cabello esté completamente seco antes de usar herramientas de calor extremo.\n\n✨️Contenido:150 ml",
+      "images": [
+        "https://cdn.phototourl.com/member/2026-08-10-598e3b6d-1661-4d05-a957-64b61df1c412.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/member/2026-08-10-598e3b6d-1661-4d05-a957-64b61df1c412.jpg",
+      "active": true
     }
   ],
   "settings": {
