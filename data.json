@@ -816,6 +816,26 @@
       ],
       "img": "https://cdn.phototourl.com/member/2026-08-10-91794eb1-ea21-425e-9900-1084acfa54ed.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786362615082",
+      "name": "Aceite De Afeitado Hidratante Personal Care",
+      "category": "PRODUCTOS PARA MEJORAR LA PIEL",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 2800
+        }
+      ],
+      "stock": 3,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "Diseñado para mejorar el contacto entre la piel y la cuchilla, proporcionando un afeitado suave y minimizando la irritación. \n\n✨️Beneficios Clave:\nProtección y Deslizamiento: Crea una barrera protectora que mejora el deslizamiento de la máquina de afeitar, ayudando a prevenir cortes, rasguños y quemaduras por afeitado. \nHidratación Profunda: Su fórmula está enriquecida con aceites de argán, jojoba, manteca de karité y semilla de uva, que nutren la piel y la dejan sedosa. \nPrevención de Irritación: Ayuda a reducir la aparición de vellos encarnados y el enrojecimiento gracias a sus propiedades lubricantes. \npH Balanceado: Formulado para mantener el equilibrio natural de la piel, lo que ayuda a su salud y confort general.\n\n✨️Modo de Uso:\nHumedecer: Aplique agua en el área que desea afeitar .\nAplicar: Coloque unas gotas de aceite en la palma de la mano y masajee suavemente sobre la piel húmeda.\nAfeitar: Proceda con el afeitado como de costumbre. La transparencia del aceite permite ver exactamente dónde está pasando la cuchilla.\nEnjuagar o Dejar: Puede enjuagar  o masajear primero el aceite restante para una mayor hidratación post-afeitado.\n✨️Contenido: 177 ml",
+      "images": [
+        "https://cdn.phototourl.com/member/2026-08-10-2d7d7fab-4ad0-4793-a6e6-5c8e4f1093dd.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/member/2026-08-10-2d7d7fab-4ad0-4793-a6e6-5c8e4f1093dd.jpg",
+      "active": true
     }
   ],
   "settings": {
