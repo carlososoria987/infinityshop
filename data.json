@@ -756,6 +756,26 @@
       ],
       "img": "https://cdn.phototourl.com/member/2026-08-10-598e3b6d-1661-4d05-a957-64b61df1c412.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786361072051",
+      "name": "Cepillo Térmico De La Marca Evok",
+      "category": "PRODUCTOS PARA EL PELO",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 2900
+        }
+      ],
+      "stock": 5,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "✨️Características :\nTecnología Térmica:  Está diseñada para retener y distribuir el calor del secador de forma uniforme, lo que acelera el tiempo de secado. \nCerdas Especiales: Utiliza fibras que ayudan a sellar la cutícula del cabello para aportar brillo y suavidad. \nControl de Frizz: Su diseño permite minimizar la estática, ayudando a lograr un acabado pulido.\n\n✨️Modo de Uso:\nPreparación: Úsalo preferiblemente sobre el cabello húmedo (secado previamente con toalla al 80%) para moldear.\nSeccionado: Divide el cabello en mechones manejables para trabajar con mayor precisión.\nAplicación de calor: Coloca el cepillo en la raíz y deslízalo hacia las puntas mientras aplicas aire caliente con el secador, manteniendo la tensión necesaria para alisar o dar volumen",
+      "images": [
+        "https://cdn.phototourl.com/member/2026-08-10-3244c027-b90e-4972-a1d1-04392f336a00.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/member/2026-08-10-3244c027-b90e-4972-a1d1-04392f336a00.jpg",
+      "active": true
     }
   ],
   "settings": {
