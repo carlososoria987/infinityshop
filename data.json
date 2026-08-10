@@ -776,6 +776,26 @@
       ],
       "img": "https://cdn.phototourl.com/member/2026-08-10-3244c027-b90e-4972-a1d1-04392f336a00.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786361235254",
+      "name": "Aceite Esencial Capilar De Biotina Kormesic",
+      "category": "PRODUCTOS PARA EL PELO",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 2800
+        }
+      ],
+      "stock": 4,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "✨️Beneficios:\nFortalecimiento: La biotina estimula la producción de queratina, una proteína esencial, fortaleciendo la estructura del cabello desde la raíz hasta las puntas y reduciendo la fragilidad y rotura. \nCrecimiento: Ayuda a reducir la caída del cabello y estimula el crecimiento natural.\nPromueve un entorno saludable para el nacimiento de cabello nuevo y más fuerte.\nNutrición y Salud del Cuero Cabelludo: Nutre profundamente el cabello y el cuero cabelludo, ayudando a equilibrar y mejorar su condición, lo que favorece un entorno saludable para el crecimiento capilar. \nBrillo y Suavidad: Ayuda a suavizar los folículos pilosos, mejorando la textura y aumentando el brillo natural del cabello, dándole un aspecto más saludable y radiante. \n\n✨️Modo de Uso :\nAplique unas gotas del aceite directamente sobre el cuero cabelludo.\nMasajee suavemente con las yemas de los dedos, realizando movimientos circulares para favorecer la absorción y estimular la circulación sanguínea. \n\n✨️Contenido: 30 ml",
+      "images": [
+        "https://cdn.phototourl.com/member/2026-08-10-6a9e1348-ca16-44f0-9f9b-1050e68c491f.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/member/2026-08-10-6a9e1348-ca16-44f0-9f9b-1050e68c491f.jpg",
+      "active": true
     }
   ],
   "settings": {
