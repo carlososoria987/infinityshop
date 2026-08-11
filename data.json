@@ -876,6 +876,26 @@
       ],
       "img": "https://raw.githubusercontent.com/carlososoria987/infinityshop/main/images/img_1786447271306_8tnc0p.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786461892109",
+      "name": "Glicerina Pura 100% De  Sensa Zen",
+      "category": "PRODUCTOS PARA MEJORAR LA PIEL",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 2700
+        }
+      ],
+      "stock": 3,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "Es un producto de origen natural con potentes propiedades humectantes y suavizantes, diseñado para el cuidado de la piel y el cabello .\n\n✨️Beneficios :\nEste producto actúa como un \"imán de hidratación\", atrayendo y reteniendo el agua para mantener los tejidos flexibles.\nPara la piel: Hidrata profundamente, suaviza asperezas y ayuda a prevenir la aparición de estrías y arrugas. También forma una barrera protectora contra agentes irritantes externos. \nPara el cabello: Fortalece desde la raíz, reduce el frizz y proporciona un brillo intenso. Es ideal para tratar cabellos maltratados, secos o quebradizos. \nOtros: Ayuda a calmar la piel después de la depilación o en zonas muy secas como los pies agrietados. \n\n✨️Modos de Uso:\n Cuidado Corporal :Mezclar una pequeña cantidad con tu crema hidratante habitual para potenciar la suavidad o utilizar sola.\nMascarilla Capilar: Añadir una cucharada a tu mascarilla favorita o acondicionador para hidratar y reducir el quiebre.\nPies",
+      "images": [
+        "https://cdn.phototourl.com/member/2026-08-10-02a7fc56-ad91-410f-82c2-1adb1dbc164c.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/member/2026-08-10-02a7fc56-ad91-410f-82c2-1adb1dbc164c.jpg",
+      "active": true
     }
   ],
   "settings": {
