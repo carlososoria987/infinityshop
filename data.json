@@ -896,6 +896,26 @@
       ],
       "img": "https://cdn.phototourl.com/member/2026-08-10-02a7fc56-ad91-410f-82c2-1adb1dbc164c.jpg",
       "active": true
+    },
+    {
+      "id": "p_1786488863632",
+      "name": "Spray Bucal Sabor Limon",
+      "category": "GENERADORES ELECTRICOS",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 1200
+        }
+      ],
+      "stock": 4,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "Diseñado específicamente para eliminar el mal aliento y proporcionar una sensación de frescor y limpieza en la boca. Fórmula ligera y portátil, ideal para usar en cualquier momento del día, ya sea antes de salir de casa, después de comer o incluso durante una reunión importante. \n\n✨️Contenido:18 ml",
+      "images": [
+        "https://cdn.phototourl.com/member/2026-08-10-b8934e40-14a6-41a8-a6b7-7e830ae34122.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/member/2026-08-10-b8934e40-14a6-41a8-a6b7-7e830ae34122.jpg",
+      "active": true
     }
   ],
   "settings": {
