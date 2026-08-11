@@ -858,6 +858,26 @@
       "active": true
     },
     {
+      "id": "p_1786447281931",
+      "name": "Orchid Coconut Body Oil",
+      "category": "GENERADORES ELECTRICOS",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 2700
+        }
+      ],
+      "stock": 3,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "Es un hidratante formulado principalmente para suavizar y nutrir profundamente la piel seca y áspera. \n\n✨️Beneficios :\n\nHidratación Intensiva: Proporciona una hidratación profunda que ayuda a reparar la sequedad y la descamación, bloqueando la humedad en la piel. \nFórmula Ligera: Se absorbe rápidamente sin dejar residuos grasos o pegajosos, lo que permite una sensación sedosa tras su aplicación.\nCuidado de la Piel: Ayuda a mejorar la elasticidad y proporciona un brillo natural y saludable. \nExperiencia Sensorial: Posee un aroma suave y refrescante a coco tropical. \nIngredientes: Está elaborado con aceite de coco natural.\n\n✨️Modo de Uso:\nPara obtener los mejores resultados, se recomienda incorporarlo en la rutina diaria de la siguiente manera:\nDespués del baño: Aplícalo sobre la piel ligeramente húmeda para maximizar el bloqueo de la humedad.\nÁreas específicas: Masajea generosamente en zonas propensas a la resequedad, como codos, rodillas, manos y pies.\nMasajes: Su textura permite utilizarlo como aceite para masajes relajantes.\nMezcla personalizada: Algunos usuarios lo combinan con su loción corporal habitual para potenciar la hidratación.\n\n✨️Contenido:118 ml",
+      "images": [
+        "https://raw.githubusercontent.com/carlososoria987/infinityshop/main/images/img_1786447271306_8tnc0p.jpg"
+      ],
+      "img": "https://raw.githubusercontent.com/carlososoria987/infinityshop/main/images/img_1786447271306_8tnc0p.jpg",
+      "active": true
+    },
+    {
       "id": "p_1786461892109",
       "name": "Glicerina Pura 100% De  Sensa Zen",
       "category": "PRODUCTOS PARA MEJORAR LA PIEL",
@@ -875,6 +895,26 @@
         "https://cdn.phototourl.com/member/2026-08-10-02a7fc56-ad91-410f-82c2-1adb1dbc164c.jpg"
       ],
       "img": "https://cdn.phototourl.com/member/2026-08-10-02a7fc56-ad91-410f-82c2-1adb1dbc164c.jpg",
+      "active": true
+    },
+    {
+      "id": "p_1786488863632",
+      "name": "Spray Bucal Sabor Limon",
+      "category": "GENERADORES ELECTRICOS",
+      "prices": [
+        {
+          "method": "CUP",
+          "amount": 1200
+        }
+      ],
+      "stock": 4,
+      "deliveryOverride": null,
+      "vendorId": null,
+      "desc": "Diseñado específicamente para eliminar el mal aliento y proporcionar una sensación de frescor y limpieza en la boca. Fórmula ligera y portátil, ideal para usar en cualquier momento del día, ya sea antes de salir de casa, después de comer o incluso durante una reunión importante. \n\n✨️Contenido:18 ml",
+      "images": [
+        "https://cdn.phototourl.com/member/2026-08-10-b8934e40-14a6-41a8-a6b7-7e830ae34122.jpg"
+      ],
+      "img": "https://cdn.phototourl.com/member/2026-08-10-b8934e40-14a6-41a8-a6b7-7e830ae34122.jpg",
       "active": true
     }
   ],
